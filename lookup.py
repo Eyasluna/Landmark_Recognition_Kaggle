@@ -1,5 +1,6 @@
 # coding: utf-8
-
+# Author: Yibo Fu
+# 6/2/2018
 import pickle
 import os
 import cv2
