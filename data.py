@@ -1,4 +1,6 @@
 # coding: utf-8
+# Author: Yibo Fu
+# 6/2/2018
 import os
 import cv2
 import numpy as np
