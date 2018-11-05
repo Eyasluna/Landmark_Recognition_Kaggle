@@ -1,3 +1,6 @@
+# Author: Yibo Fu
+# 6/2/2018
+
 import os
 import pickle
 import numpy as np
